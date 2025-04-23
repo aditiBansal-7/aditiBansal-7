@@ -63,5 +63,4 @@
 
 ---
 
-### ✨ Quote I Live By
-> *"Build projects that solve real problems. Learn, unlearn, and evolve. 🌱"*
+
