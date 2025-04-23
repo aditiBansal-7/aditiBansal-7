@@ -15,7 +15,7 @@
 - 🧠 Exploring **AI-powered features in cloud-native apps**
 - 💬 Ask me about **Flask, Streamlit, Docker, Python, ML model monitoring**
 - 📫 Reach me at: **aditi1109.workspace@gmail.com**
-- 🌐 Check out my portfolio: [aditiBansal-7.github.io](https://aditiBansal-7.github.io)
+- 🌐 Check out my portfolio: [https://aditibansal-7.github.io/Portfolio_docker/](https://aditibansal-7.github.io/Portfolio_docker/)
 
 ---
 
