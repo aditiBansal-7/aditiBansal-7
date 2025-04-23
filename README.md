@@ -13,7 +13,7 @@
 - 🌩️ Currently learning: **Cloud DevOps, Docker, Kubernetes, and Streamlit**
 - 🛠️ Passionate about building developer tools and educational apps
 - 🧠 Exploring **AI-powered features in cloud-native apps**
-- 💬 Ask me about **Flask, Streamlit, Docker, Python, ML model monitoring**
+- 💬 Ask me about **Streamlit, Docker, Python, ML model monitoring**
 - 📫 Reach me at: **aditi1109.workspace@gmail.com**
 - 🌐 Check out my portfolio: [https://aditibansal-7.github.io/Portfolio_docker/](https://aditibansal-7.github.io/Portfolio_docker/)
 
