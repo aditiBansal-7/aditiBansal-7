@@ -2,9 +2,9 @@
 <h3 align="center">Cloud Computing Student | DevOps Enthusiast | Full-Stack Explorer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditi-clouddev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aditi-bansal-a71127284/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aditi1109.workspace@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://aditiBansal-7.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-blueviolet" /></a>
+  <a href="https://aditibansal-7.github.io/Portfolio_docker/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-blueviolet" /></a>
 </p>
 
 ---
