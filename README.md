@@ -9,7 +9,7 @@
 
 ---
 
-- 🎓 Third-year B.Tech student at **UPES, Dehradun**
+- 🎓 Final year B.Tech student at **UPES, Dehradun**
 - 🌩️ Currently learning: **Cloud DevOps, Docker, Kubernetes, and Streamlit**
 - 🛠️ Passionate about building developer tools and educational apps
 - 🧠 Exploring **AI-powered features in cloud-native apps**
